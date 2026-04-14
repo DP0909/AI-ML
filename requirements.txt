@@ -1,2 +1,10 @@
-pip install fastapi uvicorn sqlalchemy psycopg2-binary passlib python-jose
-pip install langchain qdrant-client sentence-transformers pypdf
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+passlib
+python-jose
+langchain
+qdrant-client
+sentence-transformers
+pypdf
